@@ -1,0 +1,12 @@
+{
+  "name": "coding-activity-1",
+  "version": "1.0.0",
+  "description": "Creating a Express Using Git",
+  "main": "simple-server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node simpl-server"
+  },
+  "author": "Sanjay_S",
+  "license": "ISC"
+}
